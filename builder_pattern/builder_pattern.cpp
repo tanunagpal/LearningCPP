@@ -1,3 +1,11 @@
+/*Need for builder pattern
+--complex product with extensive configuration
+--multiple parameters in a constructor
+--separate the construction and representation of an object
+-- it is a creational type of design pattern
+*/
+//The following example focus on building different type of house eg wood, concrete etc
+
 #include <iostream>
 using namespace std;
 
